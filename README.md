@@ -13,3 +13,4 @@ If you has the interest, welcome to my another repository
 
 Thanks for watching!
 
+For some reason, I may not have the opportunity to finish this repository.
