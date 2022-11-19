@@ -33,4 +33,7 @@
 - SYN—Synchronize sequence numbers to initiate a connection;
 - FIN—The sender of the segment is finished sending data to its peer; 
 
-The TCP Checksum field covers **the TCP header and data** and some fields in the IP header
+The TCP Checksum field covers **the TCP header and data** and some fields in the IP header.
+
+This is just a summary,and we'll make it more clear in the next parts.
+
